@@ -1,15 +1,15 @@
 ### Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25">
 
-<a href="https://www.facebook.com/SMGamay/" target="_blank">
+<a href="https://www.facebook.com/SMGamay/">
   <img align="left" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=25>
 </a>
-<a href="https://www.instagram.com/lumpiangsammeh/" target="_blank">
+<a href="https://www.instagram.com/lumpiangsammeh/">
   <img align="left" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height=25>
 </a>
-<a href="https://twitter.com/LumpiangSammeh" target="_blank">
+<a href="https://twitter.com/LumpiangSammeh">
   <img align="left" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" height=25>
 </a>
-<a href="https://www.linkedin.com/in/samuel-migs-gamay-303307240/" target="_blank">
+<a href="https://www.linkedin.com/in/samuel-migs-gamay-303307240/">
   <img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
 </a> 
 
