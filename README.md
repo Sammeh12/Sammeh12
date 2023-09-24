@@ -47,6 +47,7 @@ Hello, I am Samuel (You can call me Sammeh), an IT Graduate with a strong intere
 | ------------ | ------------ | ------------ |
 | SAP Business One Certificate | [STI SJDM](https://www.facebook.com/sjdelmonte.sti.edu) | March 1, 2021 |
 | SAP Business One (Financial and Logistic) | [STI SJDM](https://www.facebook.com/sjdelmonte.sti.edu) | March 1, 2021 |
+| Cum Laude | [STI SJDM](https://www.facebook.com/sjdelmonte.sti.edu) | August 11, 2023 |
 <hr>
 
 <!--## 🏆 Honors and Awards:
