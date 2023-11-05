@@ -61,7 +61,7 @@ Hello, I am Samuel (You can call me Sammeh), an IT Graduate with a strong intere
 
 <!-- BLOG-POST-LIST:START -->
 
-- [Web - Paint N' Glow](http://paintnglow.rf.gd/)
+- [Web - Paint N' Glow](https://www.facebook.com/paintnglow.co)
 - [Web - Kazaire Community](https://sammeh12.github.io/Kazaire-Community/)
 - [Web - SourceGoose](https://source-goose-official.vercel.app/)
 
